@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# UnpackdApp
+Break down any topic into a clear, trackable learning path with AI.
+this thing instantly builds custom curriculums for any subject or topics you throw at it.
 
-# Run and deploy your AI Studio app
+Key Features:
 
-This contains everything you need to run your app locally.
+    1. Custom Paths: Generates structured lessons from beginner to advanced.
 
-View your app in AI Studio: https://ai.studio/apps/drive/18H9yr_PABUtJr8-tRXBgwqrSa2dwZQeA
+    2. Track Progress: Check off completed lessons (like a real course!).
 
-## Run Locally
+    3. User Profiles: Save your learning journey and it tracks the points.
 
-**Prerequisites:**  Node.js
+    4. Powered by AI: Uses advanced AI to break down even the toughest subjects.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+    5. the best thing is Mia(bot). this thing helps the user talk out things
+    
