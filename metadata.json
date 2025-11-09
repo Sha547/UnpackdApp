@@ -1,0 +1,7 @@
+{
+  "name": "Unpackd",
+  "description": "An AI-powered tool that transforms complex academic topics into a simple, step-by-step learning guide, complete with explanations of real-world applications. Powered by the Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
